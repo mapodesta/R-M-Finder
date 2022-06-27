@@ -1,0 +1,31 @@
+.characters-col {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.characters-header {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.characters-add-favourites {
+  display: flex;
+  justify-content: center;
+}
+
+.character-icon-style {
+  display: flex;
+  justify-content: center;
+  color: red;
+}
+
+.character-card-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.characters-container {
+  min-height: 100vh;
+}

@@ -1,0 +1,13 @@
+.darkmode {
+  background-color: black;
+  color: white;
+}
+
+.lightmode {
+  background-color: white;
+}
+
+.header-col-icons {
+  display: flex;
+  justify-content: space-evenly;
+}
