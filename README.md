@@ -2,7 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was created with react 18.Practising the use of different hooks like useEffect,useState,useMemo,useCallback,useRef
+This project was created with react 18.Practising the use of different hooks like 
+
+- useEffect
+- useState
+- useMemo 
+- useCallback
+- useRef
+- useContext
+
+Also practising API calls, axios,css,implementing bootstrap,etc
 
 ## Available Scripts
 
