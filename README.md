@@ -1,5 +1,7 @@
 # Rick and Morty api integration with Hooks
 
+![alt text](https://github.com/mapodesta/R-M-Finder/blob/master/Captura%20de%20Pantalla%202022-06-28%20a%20la(s)%2009.22.24.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 This project was created with react 18.Practising the use of different hooks like 
